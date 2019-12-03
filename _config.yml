@@ -2,14 +2,14 @@ url: https://x1337tech.github.io/agency/
 baseurl: https://x1337tech.github.io/agency/
 
 # Site settings
-title: Awesome Title
+title: 3IR Technology Solutions
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Test Test
   pic: 1
   position: Lead Designer
   social:
